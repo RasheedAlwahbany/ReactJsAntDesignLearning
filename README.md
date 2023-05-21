@@ -30,4 +30,4 @@ Ant Design is highly popular among developers due to its ease of use, extensive 
 - Enjoy
 
 # Running the Docker image
-```docker-compose up --build``
+```docker-compose up --build```
